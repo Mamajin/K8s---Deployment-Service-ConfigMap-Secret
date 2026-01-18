@@ -1,0 +1,2 @@
+# Ignore Kubernetes Secrets to prevent committing sensitive data
+mongo-secret.yaml
